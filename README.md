@@ -1,3 +1,4 @@
-# GITtesty
+Lewa strona pozdrawia
+
 dup, dupa dupa
 git checkout - b lewa
